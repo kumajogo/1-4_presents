@@ -70,8 +70,6 @@ GPKI（Government Public Key Infrastructure：政府認証基盤），BCA（Brid
 
 ### 情報処理試験追加（2019年5月27日)
 
-セキュリティ関連の用語例から気になったやつ 1/2
-
 - ビジネスメール詐欺（BEC）
 - SNS の悪用
 - ダークウェブ
@@ -81,8 +79,6 @@ GPKI（Government Public Key Infrastructure：政府認証基盤），BCA（Brid
 >>>
 
 ### 情報処理試験追加（2019年5月27日)
-
-セキュリティ関連の用語例から気になったやつ 2/2
 
 - コードサイニング
 - WPA3
